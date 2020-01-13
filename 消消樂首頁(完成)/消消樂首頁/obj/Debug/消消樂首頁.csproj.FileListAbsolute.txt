@@ -1,0 +1,666 @@
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\obj\Debug\消消樂首頁.csprojAssemblyReference.cache
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\obj\Debug\消消樂首頁.Form1.resources
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\obj\Debug\消消樂首頁.Form2.resources
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\obj\Debug\消消樂首頁.Properties.Resources.resources
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\obj\Debug\消消樂首頁.csproj.GenerateResource.cache
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\obj\Debug\消消樂首頁.csproj.CoreCompileInputs.cache
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\001.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\002.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\003.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\004.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\005.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\006.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\007.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\008.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\009.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\消消樂首頁.exe.config
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\消消樂首頁.exe
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\消消樂首頁.pdb
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\obj\Debug\消消樂首頁.exe
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\obj\Debug\消消樂首頁.pdb
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\171.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\172.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\010.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\011.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\012.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\013.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\014.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\015.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\016.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\017.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\018.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\019.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\020.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\021.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\022.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\023.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\024.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\025.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\026.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\027.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\028.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\029.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\030.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\031.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\032.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\033.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\034.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\035.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\036.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\037.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\038.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\039.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\040.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\041.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\042.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\043.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\044.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\045.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\046.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\047.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\048.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\049.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\050.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\051.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\052.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\053.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\054.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\055.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\056.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\057.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\058.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\059.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\060.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\061.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\062.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\063.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\064.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\065.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\066.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\067.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\068.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\069.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\070.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\071.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\072.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\073.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\074.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\075.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\076.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\077.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\078.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\079.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\080.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\081.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\082.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\083.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\084.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\085.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\086.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\087.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\088.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\089.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\090.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\091.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\092.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\093.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\094.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\095.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\096.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\097.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\098.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\099.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\100.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\101.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\102.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\103.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\104.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\105.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\106.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\107.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\108.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\109.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\110.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\111.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\112.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\113.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\114.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\115.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\116.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\117.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\118.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\119.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\120.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\121.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\122.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\123.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\124.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\125.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\126.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\127.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\128.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\129.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\130.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\131.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\132.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\133.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\134.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\135.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\136.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\137.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\138.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\139.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\140.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\141.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\142.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\143.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\144.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\145.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\146.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\147.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\148.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\149.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\150.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁\消消樂首頁\bin\Debug\Resources\151.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\001.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\002.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\003.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\004.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\005.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\006.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\007.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\008.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\009.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\010.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\011.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\012.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\013.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\014.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\015.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\016.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\017.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\018.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\019.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\020.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\021.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\022.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\023.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\024.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\025.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\026.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\027.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\028.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\029.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\030.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\031.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\032.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\033.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\034.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\035.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\036.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\037.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\038.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\039.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\040.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\041.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\042.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\043.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\044.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\045.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\046.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\047.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\048.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\049.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\050.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\051.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\052.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\053.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\054.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\055.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\056.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\057.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\058.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\059.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\060.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\061.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\062.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\063.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\064.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\065.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\066.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\067.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\068.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\069.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\070.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\071.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\072.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\073.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\074.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\075.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\076.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\077.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\078.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\079.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\080.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\081.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\082.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\083.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\084.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\085.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\086.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\087.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\088.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\089.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\090.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\091.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\092.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\093.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\094.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\095.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\096.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\097.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\098.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\099.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\100.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\101.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\102.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\103.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\104.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\105.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\106.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\107.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\108.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\109.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\110.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\111.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\112.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\113.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\114.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\115.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\116.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\117.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\118.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\119.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\120.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\121.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\122.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\123.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\124.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\125.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\126.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\127.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\128.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\129.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\130.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\131.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\132.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\133.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\134.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\135.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\136.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\137.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\138.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\139.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\140.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\141.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\142.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\143.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\144.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\145.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\146.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\147.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\148.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\149.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\150.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\151.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\171.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\Resources\172.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\消消樂首頁.exe.config
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\消消樂首頁.exe
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\bin\Debug\消消樂首頁.pdb
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\obj\Debug\消消樂首頁.csprojAssemblyReference.cache
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\obj\Debug\消消樂首頁.Form1.resources
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\obj\Debug\消消樂首頁.Form2.resources
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\obj\Debug\消消樂首頁.Properties.Resources.resources
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\obj\Debug\消消樂首頁.csproj.GenerateResource.cache
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\obj\Debug\消消樂首頁.csproj.CoreCompileInputs.cache
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\obj\Debug\消消樂首頁.exe
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\obj\Debug\消消樂首頁.pdb
+C:\Users\Typhoon\Desktop\專案\消消樂首頁 - 複製\消消樂首頁\obj\Debug\消消樂首頁.Form3.resources
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\001.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\002.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\003.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\004.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\005.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\006.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\007.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\008.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\009.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\010.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\011.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\012.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\013.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\014.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\015.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\016.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\017.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\018.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\019.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\020.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\021.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\022.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\023.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\024.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\025.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\026.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\027.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\028.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\029.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\030.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\031.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\032.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\033.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\034.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\035.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\036.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\037.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\038.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\039.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\040.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\041.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\042.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\043.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\044.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\045.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\046.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\047.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\048.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\049.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\050.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\051.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\052.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\053.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\054.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\055.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\056.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\057.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\058.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\059.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\060.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\061.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\062.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\063.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\064.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\065.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\066.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\067.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\068.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\069.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\070.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\071.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\072.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\073.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\074.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\075.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\076.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\077.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\078.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\079.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\080.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\081.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\082.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\083.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\084.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\085.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\086.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\087.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\088.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\089.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\090.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\091.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\092.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\093.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\094.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\095.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\096.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\097.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\098.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\099.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\100.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\101.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\102.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\103.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\104.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\105.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\106.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\107.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\108.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\109.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\110.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\111.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\112.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\113.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\114.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\115.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\116.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\117.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\118.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\119.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\120.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\121.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\122.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\123.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\124.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\125.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\126.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\127.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\128.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\129.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\130.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\131.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\132.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\133.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\134.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\135.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\136.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\137.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\138.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\139.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\140.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\141.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\142.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\143.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\144.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\145.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\146.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\147.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\148.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\149.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\150.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\151.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\171.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\172.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\消消樂首頁.exe.config
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\消消樂首頁.exe
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\消消樂首頁.pdb
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\obj\Debug\消消樂首頁.csprojAssemblyReference.cache
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\obj\Debug\消消樂首頁.Form1.resources
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\obj\Debug\消消樂首頁.Form2.resources
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\obj\Debug\消消樂首頁.Form3.resources
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\obj\Debug\消消樂首頁.Properties.Resources.resources
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\obj\Debug\消消樂首頁.csproj.GenerateResource.cache
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\obj\Debug\消消樂首頁.csproj.CoreCompileInputs.cache
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\obj\Debug\消消樂首頁.exe
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\obj\Debug\消消樂首頁.pdb
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\000.png
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\bin\Debug\Resources\楓谷背景.gif
+C:\Users\Typhoon\Desktop\專案\消消樂首頁ing\消消樂首頁\obj\Debug\消消樂首頁.Form4.resources
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\001.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\002.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\003.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\004.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\005.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\006.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\007.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\008.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\009.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\010.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\011.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\012.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\013.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\014.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\015.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\016.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\017.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\018.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\019.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\020.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\021.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\022.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\023.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\024.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\025.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\026.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\027.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\028.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\029.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\030.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\031.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\032.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\033.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\034.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\035.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\036.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\037.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\038.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\039.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\040.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\041.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\042.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\043.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\044.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\045.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\046.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\047.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\048.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\049.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\050.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\051.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\052.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\053.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\054.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\055.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\056.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\057.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\058.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\059.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\060.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\061.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\062.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\063.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\064.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\065.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\066.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\067.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\068.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\069.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\070.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\071.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\072.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\073.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\074.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\075.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\076.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\077.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\078.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\079.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\080.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\081.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\082.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\083.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\084.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\085.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\086.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\087.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\088.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\089.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\090.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\091.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\092.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\093.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\094.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\095.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\096.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\097.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\098.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\099.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\100.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\101.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\102.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\103.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\104.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\105.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\106.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\107.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\108.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\109.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\110.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\111.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\112.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\113.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\114.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\115.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\116.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\117.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\118.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\119.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\120.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\121.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\122.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\123.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\124.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\125.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\126.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\127.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\128.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\129.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\130.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\131.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\132.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\133.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\134.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\135.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\136.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\137.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\138.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\139.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\140.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\141.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\142.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\143.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\144.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\145.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\146.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\147.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\148.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\149.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\150.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\151.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\171.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\172.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\000.png
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\楓谷背景.gif
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\消消樂首頁.exe.config
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\消消樂首頁.exe
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\消消樂首頁.pdb
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\obj\Debug\消消樂首頁.csprojAssemblyReference.cache
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\obj\Debug\消消樂首頁.Form1.resources
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\obj\Debug\消消樂首頁.Form2.resources
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\obj\Debug\消消樂首頁.Form3.resources
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\obj\Debug\消消樂首頁.Form4.resources
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\obj\Debug\消消樂首頁.Properties.Resources.resources
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\obj\Debug\消消樂首頁.csproj.GenerateResource.cache
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\obj\Debug\消消樂首頁.csproj.CoreCompileInputs.cache
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\obj\Debug\消消樂首頁.exe
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\obj\Debug\消消樂首頁.pdb
+C:\Users\Typhoon\Desktop\專案\已完成專案\消消樂首頁(完成)\消消樂首頁\bin\Debug\Resources\指標 (1)1.png
